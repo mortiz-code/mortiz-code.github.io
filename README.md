@@ -12,3 +12,6 @@ Cheatsheet de Markdown:
 Páginas de temas de Jekyll:
   https://github.com/jekyll/jekyll/wiki/Themes
   http://jekyllthemes.org/
+
+HTML Online editor:
+  https://html-online.com/editor/
