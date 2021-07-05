@@ -1,14 +1,14 @@
 # mortiz-code.github.io
 
 GitHub Pages:
-https://pages.github.com/
+  https://pages.github.com/
 
 jekyll-now: 
-  https://goo.gl/Ps5tkP
+  https://github.com/barryclark/jekyll-now
 
 Cheatsheet de Markdown:
-  https://goo.gl/IEvVza
+  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 Páginas de temas de Jekyll:
-  https://goo.gl/1Lmjww
+  https://github.com/jekyll/jekyll/wiki/Themes
   http://jekyllthemes.org/
