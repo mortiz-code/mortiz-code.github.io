@@ -15,3 +15,6 @@ Páginas de temas de Jekyll:
 
 HTML Online editor:
   https://html-online.com/editor/
+
+HTML Color:
+  https://www.w3schools.com/html/html_colors.asp
